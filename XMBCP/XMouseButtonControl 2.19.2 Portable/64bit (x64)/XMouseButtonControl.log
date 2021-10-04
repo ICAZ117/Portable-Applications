@@ -1,0 +1,605 @@
+
+*******************************************************************************************************************************************
+18-03-2021 11:53:57.349> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+18-03-2021 11:53:57.350> Running in medium integrity mode (0x00002000)
+18-03-2021 11:53:57.350> Unable to find the default settings file 'C:\Users\ibrah\Downloads\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+18-03-2021 11:53:57.350> HookDLL: Unable to load XML settings
+18-03-2021 11:53:57.350> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 0 ms
+18-03-2021 11:53:57.350> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+18-03-2021 11:53:57.350> Startup folder: 'C:\Users\ibrah\Downloads\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+18-03-2021 11:53:57.350> Enabling portable mode.
+18-03-2021 11:53:57.350> Creating/using settings file in 'C:\Users\ibrah\Downloads\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+18-03-2021 11:53:57.350> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+18-03-2021 11:53:57.361> HookThreadProc[0x3C8C]: Using keyboard language 0x04090409
+18-03-2021 11:54:01.571> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+18-03-2021 11:54:01.571> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+18-03-2021 11:54:01.571> Received 2048 bytes on the IPC named pipe.
+18-03-2021 11:54:01.572> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+18-03-2021 11:54:01.588> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+18-03-2021 11:54:01.603> Unable to find the default settings file 'C:\Users\ibrah\Downloads\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+18-03-2021 11:54:01.603> SetupDialog: Settings file 'C:\Users\ibrah\Downloads\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' does not exist!
+18-03-2021 11:54:01.861> GetLayerName: Layer 0 does not exist or has no name!
+18-03-2021 11:54:01.861> GetLayerName: Layer 0 does not exist or has no name!
+18-03-2021 11:54:01.861> GetLayerName: Layer 0 does not exist or has no name!
+18-03-2021 11:54:01.861> GetLayerName: Layer 0 does not exist or has no name!
+18-03-2021 11:54:01.870> GetLayerName: Layer 1 does not exist or has no name!
+18-03-2021 11:54:01.870> GetLayerName: Layer 1 does not exist or has no name!
+18-03-2021 11:54:01.871> GetLayerName: Layer 1 does not exist or has no name!
+18-03-2021 11:54:01.871> GetLayerName: Layer 1 does not exist or has no name!
+18-03-2021 11:55:57.404> You are using the latest available version of X-Mouse Button Control.
+18-03-2021 11:56:29.325> Applying changes to X-Mouse Button Control settings...
+18-03-2021 11:56:29.325> Unable to find the default settings file 'C:\Users\ibrah\Downloads\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' (Error code 2: The system cannot find the file specified. )
+18-03-2021 11:56:29.325> SetupDialog: Settings file 'C:\Users\ibrah\Downloads\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' does not exist!
+18-03-2021 11:56:29.325> Updating Windows hook timeout: 200
+18-03-2021 11:56:29.325> There is no existing settings file. Attempting to creating a new one.
+18-03-2021 11:56:29.325> GetLayerName: Layer 2 does not exist or has no name!
+18-03-2021 11:56:29.325> GetLayerName: Layer 3 does not exist or has no name!
+18-03-2021 11:56:29.325> GetLayerName: Layer 4 does not exist or has no name!
+18-03-2021 11:56:29.325> GetLayerName: Layer 5 does not exist or has no name!
+18-03-2021 11:56:29.325> GetLayerName: Layer 6 does not exist or has no name!
+18-03-2021 11:56:29.325> GetLayerName: Layer 7 does not exist or has no name!
+18-03-2021 11:56:29.325> GetLayerName: Layer 8 does not exist or has no name!
+18-03-2021 11:56:29.325> GetLayerName: Layer 9 does not exist or has no name!
+18-03-2021 11:56:29.335> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 11:57:14.692> There is no existing settings file. Attempting to creating a new one.
+18-03-2021 11:57:14.692> GetLayerName: Layer 2 does not exist or has no name!
+18-03-2021 11:57:14.692> GetLayerName: Layer 3 does not exist or has no name!
+18-03-2021 11:57:14.692> GetLayerName: Layer 4 does not exist or has no name!
+18-03-2021 11:57:14.692> GetLayerName: Layer 5 does not exist or has no name!
+18-03-2021 11:57:14.692> GetLayerName: Layer 6 does not exist or has no name!
+18-03-2021 11:57:14.692> GetLayerName: Layer 7 does not exist or has no name!
+18-03-2021 11:57:14.692> GetLayerName: Layer 8 does not exist or has no name!
+18-03-2021 11:57:14.692> GetLayerName: Layer 9 does not exist or has no name!
+18-03-2021 11:57:19.864> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+18-03-2021 11:57:19.867> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 11:57:24.869> You are using the latest available version of X-Mouse Button Control.
+18-03-2021 11:58:02.190> Exit requested by the user.
+18-03-2021 11:58:02.207> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+18-03-2021 11:58:26.666> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline '"c:\users\ibrah\onedrive\applications\xmbcp\quizlet.xmbcp"'
+18-03-2021 11:58:26.667> Running in medium integrity mode (0x00002000)
+18-03-2021 11:58:26.670> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 11:58:26.670> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+18-03-2021 11:58:26.670> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+18-03-2021 11:58:26.670> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+18-03-2021 11:58:26.670> Enabling portable mode.
+18-03-2021 11:58:26.670> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+18-03-2021 11:58:26.670> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+18-03-2021 11:58:26.790> HookThreadProc[0x468C]: Using keyboard language 0x04090409
+18-03-2021 11:58:28.532> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+18-03-2021 11:58:28.533> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+18-03-2021 11:58:28.533> Received 2048 bytes on the IPC named pipe.
+18-03-2021 11:58:28.533> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+18-03-2021 11:58:28.549> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+18-03-2021 11:58:28.571> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 11:58:31.995> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+18-03-2021 11:58:31.998> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 11:58:36.995> You are using the latest available version of X-Mouse Button Control.
+18-03-2021 12:04:10.595> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+18-03-2021 12:04:10.595> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+18-03-2021 12:04:10.595> Received 2048 bytes on the IPC named pipe.
+18-03-2021 12:04:10.595> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+18-03-2021 12:04:10.603> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+
+18-03-2021 12:04:10.616> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:04:50.836> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+18-03-2021 12:04:50.839> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:04:55.835> You are using the latest available version of X-Mouse Button Control.
+18-03-2021 12:20:55.327> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+18-03-2021 12:20:55.342> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:21:12.971> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:21:12.982> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:23:04.586> CIconSettings::LoadIcons: There are no icon positions in the profile.
+18-03-2021 12:23:25.431> There is no existing settings file. Attempting to creating a new one.
+18-03-2021 12:23:25.440> CIconSettings::LoadIcons: There are no icon positions in the profile.
+18-03-2021 12:23:42.444> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Quizlet.xmbcp'.
+18-03-2021 12:23:52.322> Applying changes to X-Mouse Button Control profile 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'...
+18-03-2021 12:23:52.332> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:23:52.333> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:23:52.407> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:24:02.295> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Default.xmbcp'.
+18-03-2021 12:24:02.296> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:24:02.363> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:24:09.600> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Quizlet.xmbcp'.
+18-03-2021 12:24:09.601> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:24:09.667> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:24:33.198> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+18-03-2021 12:24:33.201> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:24:38.211> You are using the latest available version of X-Mouse Button Control.
+18-03-2021 12:24:53.868> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+18-03-2021 12:24:53.868> Received 2048 bytes on the IPC named pipe.
+18-03-2021 12:24:53.868> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+18-03-2021 12:24:53.868> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+18-03-2021 12:24:53.888> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+18-03-2021 12:24:53.908> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:25:02.260> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+18-03-2021 12:25:02.262> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:25:03.888> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+18-03-2021 12:25:03.889> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+18-03-2021 12:25:03.889> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+18-03-2021 12:25:03.907> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+18-03-2021 12:25:03.923> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:25:07.258> You are using the latest available version of X-Mouse Button Control.
+18-03-2021 12:25:09.447> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Default.xmbcp'.
+18-03-2021 12:25:09.448> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:25:09.513> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:25:44.218> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Quizlet.xmbcp'.
+18-03-2021 12:25:44.218> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:25:44.287> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:26:03.235> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Default.xmbcp'.
+18-03-2021 12:26:03.235> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:26:03.301> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:35:16.545> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Quizlet.xmbcp'.
+18-03-2021 12:35:16.545> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:35:16.620> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:35:48.474> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:35:48.485> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:36:44.851> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:36:44.864> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:37:30.471> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:37:30.481> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:37:52.308> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:37:52.316> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:38:58.372> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:38:58.383> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:40:06.989> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:40:07.000> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:41:03.332> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:41:03.342> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:41:47.103> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:41:47.114> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:42:40.368> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:42:40.384> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:42:57.894> CIconSettings::LoadIcons: There are no icon positions in the profile.
+18-03-2021 12:43:50.936> Copying layer 1 to layer 2 in (null) ((null)).
+18-03-2021 12:43:54.784> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:43:54.796> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:44:13.441> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:44:13.451> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:44:25.636> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:44:25.647> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:44:33.505> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:44:33.515> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:44:51.956> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:44:51.967> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:45:03.861> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:45:03.870> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:45:46.582> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:45:46.597> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:46:21.049> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:46:21.059> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:47:09.004> Applying changes to X-Mouse Button Control settings...
+18-03-2021 12:47:09.015> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:48:41.369> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+18-03-2021 12:48:41.371> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 12:48:46.368> You are using the latest available version of X-Mouse Button Control.
+
+*******************************************************************************************************************************************
+18-03-2021 23:15:31.248> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline '"c:\users\ibrah\onedrive\applications\xmbcp\quizlet.xmbcp"'
+18-03-2021 23:15:31.249> Running in medium integrity mode (0x00002000)
+18-03-2021 23:15:31.256> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-03-2021 23:15:31.257> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+18-03-2021 23:15:31.257> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+18-03-2021 23:15:31.257> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+18-03-2021 23:15:31.257> Enabling portable mode.
+18-03-2021 23:15:31.257> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+18-03-2021 23:15:31.257> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+18-03-2021 23:15:31.380> HookThreadProc[0x1410]: Using keyboard language 0x04090409
+18-03-2021 23:17:31.422> You are using the latest available version of X-Mouse Button Control.
+19-03-2021 00:04:15.550> Power State: System is suspending operation.
+19-03-2021 00:04:15.550> Reinstall mouse hook on resume is enabled. Remove hook before suspending...
+19-03-2021 06:47:29.202> Power State: Operation resuming automatically after event.
+19-03-2021 06:47:29.202> Reinstall mouse hook on resume is enabled. Re-hooking mouse...
+19-03-2021 06:47:29.684> Loaded 0 application specific profiles (0 normal and 0 custom window).
+19-03-2021 06:47:29.697> HookThreadProc[0x4D58]: Using keyboard language 0x04090409
+19-03-2021 06:48:37.496> OnTaskBarCreated: Recreating systray icon
+19-03-2021 06:48:40.166> Reinstall mouse hook on resume is enabled. Resetting hooks on session logon...
+19-03-2021 06:48:40.538> HookThreadProc[0x30BC]: Using keyboard language 0x04090409
+19-03-2021 06:48:54.292> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+19-03-2021 06:48:54.314> Loaded 0 application specific profiles (0 normal and 0 custom window).
+19-03-2021 06:49:25.624> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Default.xmbcp'.
+19-03-2021 06:49:25.625> Loaded 0 application specific profiles (0 normal and 0 custom window).
+19-03-2021 06:49:25.642> Loaded 0 application specific profiles (0 normal and 0 custom window).
+19-03-2021 06:49:29.222> You are using the latest available version of X-Mouse Button Control.
+19-03-2021 06:50:21.035> Applying changes to X-Mouse Button Control settings...
+19-03-2021 06:50:21.057> Loaded 0 application specific profiles (0 normal and 0 custom window).
+19-03-2021 06:50:32.640> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+19-03-2021 06:50:32.643> Loaded 0 application specific profiles (0 normal and 0 custom window).
+19-03-2021 06:50:37.636> You are using the latest available version of X-Mouse Button Control.
+
+*******************************************************************************************************************************************
+07-04-2021 19:46:53.457> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline '"c:\users\ibrah\onedrive\applications\xmbcp\quizlet.xmbcp"'
+07-04-2021 19:46:53.458> Running in medium integrity mode (0x00002000)
+07-04-2021 19:46:53.469> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 19:46:53.470> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+07-04-2021 19:46:53.470> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+07-04-2021 19:46:53.470> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+07-04-2021 19:46:53.470> Enabling portable mode.
+07-04-2021 19:46:53.470> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+07-04-2021 19:46:53.470> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+07-04-2021 19:46:53.590> HookThreadProc[0x16A8]: Using keyboard language 0x04090409
+07-04-2021 19:47:08.192> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+07-04-2021 19:47:08.214> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 19:47:25.828> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Quizlet.xmbcp'.
+07-04-2021 19:47:25.829> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 19:47:25.931> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 19:47:36.285> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+07-04-2021 19:47:36.290> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 19:47:41.357> You are using the latest available version of X-Mouse Button Control.
+07-04-2021 20:42:17.677> Power State: System is suspending operation.
+07-04-2021 20:42:17.677> Reinstall mouse hook on resume is enabled. Remove hook before suspending...
+07-04-2021 21:03:14.597> Power State: Operation resuming automatically after event.
+07-04-2021 21:03:14.597> Reinstall mouse hook on resume is enabled. Re-hooking mouse...
+07-04-2021 21:03:16.519> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 21:03:16.596> HookThreadProc[0x4A38]: Using keyboard language 0x04090409
+07-04-2021 21:03:19.856> OnTaskBarCreated: Recreating systray icon
+07-04-2021 21:03:21.997> Reinstall mouse hook on resume is enabled. Resetting hooks on session logon...
+07-04-2021 21:03:22.719> The lock for 'HookThread Clean-up' took 719ms to release!
+07-04-2021 21:03:22.801> HookThreadProc[0x378C]: Using keyboard language 0x04090409
+07-04-2021 21:05:14.619> You are using the latest available version of X-Mouse Button Control.
+07-04-2021 21:23:43.528> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+07-04-2021 21:23:43.554> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 21:24:00.724> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Default.xmbcp'.
+07-04-2021 21:24:00.725> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 21:24:00.795> Loaded 0 application specific profiles (0 normal and 0 custom window).
+07-04-2021 21:26:10.014> Exit requested by the user.
+07-04-2021 21:26:10.175> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+07-04-2021 21:26:10.237> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+14-04-2021 06:42:20.581> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline '"c:\users\ibrah\onedrive\applications\xmbcp\quizlet.xmbcp"'
+14-04-2021 06:42:20.583> Running in medium integrity mode (0x00002000)
+14-04-2021 06:42:20.595> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:42:20.595> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+14-04-2021 06:42:20.595> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+14-04-2021 06:42:20.595> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 06:42:20.595> Enabling portable mode.
+14-04-2021 06:42:20.595> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 06:42:20.595> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+14-04-2021 06:42:20.719> HookThreadProc[0x10DC]: Using keyboard language 0x04090409
+14-04-2021 06:42:51.790> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+14-04-2021 06:42:51.829> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:43:06.316> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Quizlet.xmbcp'.
+14-04-2021 06:43:06.317> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:43:06.386> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:43:13.719> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+14-04-2021 06:43:13.724> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:43:18.906> You are using the latest available version of X-Mouse Button Control.
+14-04-2021 06:44:25.193> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+14-04-2021 06:44:25.220> Unable to find the user defined portable profile 'C:\Users\ibrah\OneDrive\Applications\XMBCP\Quizlet.xmbcp' (Error code 2: The system cannot find the file specified. )
+14-04-2021 06:44:25.220> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:44:33.162> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Quizlet.xmbcp'.
+14-04-2021 06:44:33.164> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:44:33.218> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:44:40.129> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+14-04-2021 06:44:40.142> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 06:44:45.149> You are using the latest available version of X-Mouse Button Control.
+14-04-2021 07:11:13.557> Power State: System is suspending operation.
+14-04-2021 07:11:13.557> Reinstall mouse hook on resume is enabled. Remove hook before suspending...
+14-04-2021 08:00:57.624> Power State: Operation resuming automatically after event.
+14-04-2021 08:00:57.624> Reinstall mouse hook on resume is enabled. Re-hooking mouse...
+14-04-2021 08:00:58.082> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 08:00:58.161> HookThreadProc[0x4130]: Using keyboard language 0x04090409
+14-04-2021 08:01:03.807> Reinstall mouse hook on resume is enabled. Resetting hooks on session logon...
+14-04-2021 08:01:04.181> HookThreadProc[0x5CF0]: Using keyboard language 0x04090409
+
+*******************************************************************************************************************************************
+14-04-2021 11:38:20.913> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+14-04-2021 11:38:20.914> Running in medium integrity mode (0x00002000)
+14-04-2021 11:38:20.923> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:38:20.923> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+14-04-2021 11:38:20.923> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+14-04-2021 11:38:20.923> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:38:20.923> Enabling portable mode.
+14-04-2021 11:38:20.923> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:38:20.923> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+14-04-2021 11:38:21.049> HookThreadProc[0x16E8]: Using keyboard language 0x04090409
+14-04-2021 11:38:51.082> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+14-04-2021 11:38:51.083> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+14-04-2021 11:38:51.083> Received 2048 bytes on the IPC named pipe.
+14-04-2021 11:38:51.083> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+
+14-04-2021 11:38:51.116> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+14-04-2021 11:38:51.134> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:38:58.913> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+14-04-2021 11:38:58.936> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:39:04.146> You are using the latest available version of X-Mouse Button Control.
+14-04-2021 11:39:04.965> Exit requested by the user.
+14-04-2021 11:39:04.985> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+14-04-2021 11:39:15.111> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline '"c:\users\ibrah\onedrive\applications\xmbcp\xmousebuttoncontrol 2.19.2 portable\64bit (x64)\xmousebuttonhook.dll"'
+14-04-2021 11:39:15.111> Running in medium integrity mode (0x00002000)
+14-04-2021 11:39:15.112> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:39:15.112> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+14-04-2021 11:39:15.112> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+14-04-2021 11:39:15.112> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:39:15.112> Enabling portable mode.
+14-04-2021 11:39:15.112> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:39:15.112> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+14-04-2021 11:39:15.230> HookThreadProc[0x2944]: Using keyboard language 0x04090409
+14-04-2021 11:39:25.018> MultInstance: Sending commandline to an existing instance of X-Mouse Button Control
+14-04-2021 11:39:25.019> MultInstance: Successfully finished communicating with the first instance of X-Mouse Button Control.
+14-04-2021 11:39:25.019> Received 2048 bytes on the IPC named pipe.
+14-04-2021 11:39:25.019> Received message with data 0x80000004 from another instance of X-Mouse Button Control.
+14-04-2021 11:39:25.030> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+
+14-04-2021 11:39:25.049> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:39:34.969> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+14-04-2021 11:39:34.973> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:39:39.962> You are using the latest available version of X-Mouse Button Control.
+14-04-2021 11:39:40.311> Exit requested by the user.
+14-04-2021 11:39:40.331> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+14-04-2021 11:39:43.959> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline '"c:\users\ibrah\onedrive\applications\xmbcp\xmousebuttoncontrol 2.19.2 portable\64bit (x64)\default.xmbcp"'
+14-04-2021 11:39:43.959> Running in medium integrity mode (0x00002000)
+14-04-2021 11:39:43.960> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:39:43.960> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+14-04-2021 11:39:43.960> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+14-04-2021 11:39:43.960> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:39:43.960> Enabling portable mode.
+14-04-2021 11:39:43.960> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:39:43.960> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+14-04-2021 11:39:43.968> HookThreadProc[0x2CE8]: Using keyboard language 0x04090409
+14-04-2021 11:39:58.096> Exit requested by the user.
+14-04-2021 11:39:58.116> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+14-04-2021 11:40:01.185> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+14-04-2021 11:40:01.194> Running in medium integrity mode (0x00002000)
+14-04-2021 11:40:01.195> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:40:01.195> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+14-04-2021 11:40:01.195> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+14-04-2021 11:40:01.195> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:40:01.195> Enabling portable mode.
+14-04-2021 11:40:01.195> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:40:01.195> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+14-04-2021 11:40:01.204> HookThreadProc[0x25BC]: Using keyboard language 0x04090409
+14-04-2021 11:40:54.545> Exit requested by the user.
+14-04-2021 11:40:54.566> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+14-04-2021 11:40:56.316> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+14-04-2021 11:40:56.316> Running in medium integrity mode (0x00002000)
+14-04-2021 11:40:56.317> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:40:56.317> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+14-04-2021 11:40:56.317> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+14-04-2021 11:40:56.317> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:40:56.317> Enabling portable mode.
+14-04-2021 11:40:56.317> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+14-04-2021 11:40:56.317> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+14-04-2021 11:40:56.435> HookThreadProc[0x1EA4]: Using keyboard language 0x04090409
+14-04-2021 11:41:02.438> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+14-04-2021 11:41:02.453> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:41:07.700> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Quizlet.xmbcp'.
+14-04-2021 11:41:07.701> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:41:07.741> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:41:23.698> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+14-04-2021 11:41:23.702> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 11:41:28.697> You are using the latest available version of X-Mouse Button Control.
+14-04-2021 14:23:39.382> Power State: System is suspending operation.
+14-04-2021 14:23:39.382> Reinstall mouse hook on resume is enabled. Remove hook before suspending...
+14-04-2021 14:41:34.520> Power State: Operation resuming automatically after event.
+14-04-2021 14:41:34.521> Reinstall mouse hook on resume is enabled. Re-hooking mouse...
+14-04-2021 14:41:34.878> Loaded 0 application specific profiles (0 normal and 0 custom window).
+14-04-2021 14:41:34.910> HookThreadProc[0x4048]: Using keyboard language 0x04090409
+14-04-2021 14:41:39.087> Reinstall mouse hook on resume is enabled. Resetting hooks on session logon...
+14-04-2021 14:41:39.443> HookThreadProc[0x4B04]: Using keyboard language 0x04090409
+14-04-2021 14:41:55.974> Exit requested by the user.
+14-04-2021 14:41:56.017> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+25-04-2021 11:06:49.373> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+25-04-2021 11:06:49.378> Running in medium integrity mode (0x00002000)
+25-04-2021 11:06:49.396> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:06:49.396> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+25-04-2021 11:06:49.396> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+25-04-2021 11:06:49.396> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+25-04-2021 11:06:49.396> Enabling portable mode.
+25-04-2021 11:06:49.397> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+25-04-2021 11:06:49.397> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+25-04-2021 11:06:49.419> HookThreadProc[0x22A4]: Using keyboard language 0x04090409
+25-04-2021 11:06:58.495> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+25-04-2021 11:06:58.521> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:08:49.484> You are using the latest available version of X-Mouse Button Control.
+25-04-2021 11:08:50.581> There is no existing settings file. Attempting to creating a new one.
+25-04-2021 11:08:50.582> CIconSettings::LoadIcons: There are no icon positions in the profile.
+25-04-2021 11:08:56.129> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Valorant.xmbcp'.
+25-04-2021 11:08:59.160> SetupDialog::SwitchProfile - User chose not to save changes to the current profile!
+25-04-2021 11:08:59.163> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:08:59.226> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:09:12.594> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Quizlet.xmbcp'.
+25-04-2021 11:09:19.145> SetupDialog::SwitchProfile - User chose not to save changes to the current profile!
+25-04-2021 11:09:19.148> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:09:19.223> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:09:28.011> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Valorant.xmbcp'.
+25-04-2021 11:09:28.012> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:09:28.070> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:10:03.069> CIconSettings::LoadIcons: There are no icon positions in the profile.
+25-04-2021 11:10:15.264> CIconSettings::LoadIcons: There are no icon positions in the profile.
+25-04-2021 11:10:23.495> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Quizlet.xmbcp'.
+25-04-2021 11:10:26.295> Applying changes to X-Mouse Button Control profile 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Valorant.xmbcp'...
+25-04-2021 11:10:26.308> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:10:26.311> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:10:26.392> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:10:32.699> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Valorant.xmbcp'.
+25-04-2021 11:10:32.700> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:10:32.765> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:10:36.982> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+25-04-2021 11:10:37.018> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 11:10:42.009> You are using the latest available version of X-Mouse Button Control.
+25-04-2021 11:28:34.663> OnTaskBarCreated: Recreating systray icon
+25-04-2021 11:28:42.523> OnTaskBarCreated: Recreating systray icon
+25-04-2021 11:43:29.129> OnTaskBarCreated: Recreating systray icon
+25-04-2021 11:43:49.894> OnTaskBarCreated: Recreating systray icon
+
+*******************************************************************************************************************************************
+25-04-2021 12:03:24.811> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+25-04-2021 12:03:24.812> Running in medium integrity mode (0x00002000)
+25-04-2021 12:03:24.824> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 12:03:24.824> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+25-04-2021 12:03:24.824> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+25-04-2021 12:03:24.824> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+25-04-2021 12:03:24.824> Enabling portable mode.
+25-04-2021 12:03:24.824> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+25-04-2021 12:03:24.825> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+25-04-2021 12:03:24.960> HookThreadProc[0x3EC]: Using keyboard language 0x04090409
+25-04-2021 12:03:29.942> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+25-04-2021 12:03:29.964> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 12:05:25.008> You are using the latest available version of X-Mouse Button Control.
+25-04-2021 12:29:13.867> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+25-04-2021 12:29:13.880> Loaded 0 application specific profiles (0 normal and 0 custom window).
+25-04-2021 12:29:18.867> You are using the latest available version of X-Mouse Button Control.
+25-04-2021 12:29:19.281> Exit requested by the user.
+25-04-2021 12:29:19.301> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+09-05-2021 16:20:21.038> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+09-05-2021 16:20:21.040> Running in medium integrity mode (0x00002000)
+09-05-2021 16:20:21.057> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:20:21.057> Running on Microsoft Windows 10 Home Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+09-05-2021 16:20:21.057> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+09-05-2021 16:20:21.057> Startup folder: 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+09-05-2021 16:20:21.057> Enabling portable mode.
+09-05-2021 16:20:21.057> Creating/using settings file in 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+09-05-2021 16:20:21.057> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+09-05-2021 16:20:21.173> HookThreadProc[0x2960]: Using keyboard language 0x04090409
+09-05-2021 16:20:26.757> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+09-05-2021 16:20:26.790> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:20:33.895> SetupDialog::SwitchProfile - Switch to 'C:\Users\ibrah\OneDrive\Applications\XMBCP\XMouseButtonControl 2.19.2 Portable\64bit (x64)\Quizlet.xmbcp'.
+09-05-2021 16:20:33.896> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:20:34.069> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:22:00.475> Adding new application specific settings for 'W2:explorer.exe \;| MSTaskListWClass \;| MSTaskSwWClass'.
+09-05-2021 16:22:00.480> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:00.481> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:00.481> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:00.481> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:00.483> GetLayerName: Layer 1 does not exist or has no name!
+09-05-2021 16:22:00.483> GetLayerName: Layer 1 does not exist or has no name!
+09-05-2021 16:22:00.483> GetLayerName: Layer 1 does not exist or has no name!
+09-05-2021 16:22:00.483> GetLayerName: Layer 1 does not exist or has no name!
+09-05-2021 16:22:21.273> You are using the latest available version of X-Mouse Button Control.
+09-05-2021 16:22:26.625> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:26.625> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:27.460> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:27.461> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:27.876> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:27.876> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:28.095> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:28.095> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:28.442> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:28.442> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:28.624> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:28.624> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:29.138> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:29.138> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:29.320> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:29.320> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:30.141> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:30.141> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:30.430> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:30.430> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:30.943> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:30.943> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:31.157> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:31.157> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:31.877> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:31.877> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:32.130> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:32.130> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:40.351> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:40.351> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.105> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.105> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.352> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.352> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.530> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.530> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.727> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.727> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.904> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:41.904> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:43.180> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:22:43.180> GetLayerName: Layer 0 does not exist or has no name!
+09-05-2021 16:25:43.236> Applying changes to X-Mouse Button Control settings...
+09-05-2021 16:25:43.237> GetLayerName: Layer 2 does not exist or has no name!
+09-05-2021 16:25:43.237> GetLayerName: Layer 3 does not exist or has no name!
+09-05-2021 16:25:43.237> GetLayerName: Layer 4 does not exist or has no name!
+09-05-2021 16:25:43.237> GetLayerName: Layer 5 does not exist or has no name!
+09-05-2021 16:25:43.237> GetLayerName: Layer 6 does not exist or has no name!
+09-05-2021 16:25:43.238> GetLayerName: Layer 7 does not exist or has no name!
+09-05-2021 16:25:43.238> GetLayerName: Layer 8 does not exist or has no name!
+09-05-2021 16:25:43.238> GetLayerName: Layer 9 does not exist or has no name!
+09-05-2021 16:25:43.252> Loaded 1 application specific profiles (0 normal and 1 custom window).
+09-05-2021 16:25:43.253> Swapping layer 1 with 2.
+09-05-2021 16:25:50.634> Applying changes to X-Mouse Button Control settings...
+09-05-2021 16:25:50.635> GetLayerName: Layer 2 does not exist or has no name!
+09-05-2021 16:25:50.636> GetLayerName: Layer 3 does not exist or has no name!
+09-05-2021 16:25:50.636> GetLayerName: Layer 4 does not exist or has no name!
+09-05-2021 16:25:50.636> GetLayerName: Layer 5 does not exist or has no name!
+09-05-2021 16:25:50.636> GetLayerName: Layer 6 does not exist or has no name!
+09-05-2021 16:25:50.636> GetLayerName: Layer 7 does not exist or has no name!
+09-05-2021 16:25:50.636> GetLayerName: Layer 8 does not exist or has no name!
+09-05-2021 16:25:50.636> GetLayerName: Layer 9 does not exist or has no name!
+09-05-2021 16:25:50.650> Loaded 1 application specific profiles (0 normal and 1 custom window).
+09-05-2021 16:25:50.650> Swapping layer 1 with 2.
+09-05-2021 16:26:07.335> Applying changes to X-Mouse Button Control settings...
+09-05-2021 16:26:07.335> GetLayerName: Layer 2 does not exist or has no name!
+09-05-2021 16:26:07.335> GetLayerName: Layer 3 does not exist or has no name!
+09-05-2021 16:26:07.335> GetLayerName: Layer 4 does not exist or has no name!
+09-05-2021 16:26:07.336> GetLayerName: Layer 5 does not exist or has no name!
+09-05-2021 16:26:07.336> GetLayerName: Layer 6 does not exist or has no name!
+09-05-2021 16:26:07.336> GetLayerName: Layer 7 does not exist or has no name!
+09-05-2021 16:26:07.336> GetLayerName: Layer 8 does not exist or has no name!
+09-05-2021 16:26:07.336> GetLayerName: Layer 9 does not exist or has no name!
+09-05-2021 16:26:07.346> Loaded 1 application specific profiles (0 normal and 1 custom window).
+09-05-2021 16:26:13.494> GetLayerName: Layer 2 does not exist or has no name!
+09-05-2021 16:26:13.494> GetLayerName: Layer 3 does not exist or has no name!
+09-05-2021 16:26:13.494> GetLayerName: Layer 4 does not exist or has no name!
+09-05-2021 16:26:13.494> GetLayerName: Layer 5 does not exist or has no name!
+09-05-2021 16:26:13.494> GetLayerName: Layer 6 does not exist or has no name!
+09-05-2021 16:26:13.494> GetLayerName: Layer 7 does not exist or has no name!
+09-05-2021 16:26:13.494> GetLayerName: Layer 8 does not exist or has no name!
+09-05-2021 16:26:13.494> GetLayerName: Layer 9 does not exist or has no name!
+09-05-2021 16:26:13.506> CIconSettings::LoadIcons: There are no icon positions in the profile.
+09-05-2021 16:26:19.916> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+09-05-2021 16:26:19.930> Loaded 1 application specific profiles (0 normal and 1 custom window).
+09-05-2021 16:26:24.928> You are using the latest available version of X-Mouse Button Control.
+09-05-2021 16:27:04.988> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+09-05-2021 16:27:05.021> Loaded 1 application specific profiles (0 normal and 1 custom window).
+09-05-2021 16:27:08.668> Remove profile settings for 'W2:explorer.exe \;| MSTaskListWClass \;| MSTaskSwWClass'.
+09-05-2021 16:27:40.621> Applying changes to X-Mouse Button Control settings...
+09-05-2021 16:27:40.632> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:27:43.313> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+09-05-2021 16:27:43.342> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:27:48.334> You are using the latest available version of X-Mouse Button Control.
+09-05-2021 16:28:35.776> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+09-05-2021 16:28:35.808> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:28:52.596> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+09-05-2021 16:28:52.620> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 16:28:57.616> You are using the latest available version of X-Mouse Button Control.
+09-05-2021 16:29:53.414> Power State: System is suspending operation.
+09-05-2021 16:29:53.414> Reinstall mouse hook on resume is enabled. Remove hook before suspending...
+09-05-2021 17:38:48.278> Power State: Operation resuming automatically after event.
+09-05-2021 17:38:48.278> Reinstall mouse hook on resume is enabled. Re-hooking mouse...
+09-05-2021 17:38:49.448> Loaded 0 application specific profiles (0 normal and 0 custom window).
+09-05-2021 17:38:49.483> HookThreadProc[0x7374]: Using keyboard language 0x04090409
+09-05-2021 17:39:00.938> Reinstall mouse hook on resume is enabled. Resetting hooks on session logon...
+09-05-2021 17:39:01.159> HookThreadProc[0x2EA4]: Using keyboard language 0x04090409
+09-05-2021 17:39:21.910> Exit requested by the user.
+09-05-2021 17:39:21.953> X-Mouse Button Control Shutdown.
+
